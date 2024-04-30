@@ -1,8 +1,24 @@
 {
+    "logo":{"id":1,"link":"https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/filimo/fa-filimo-dark-logo.svg"},
     "header":[
-
+        {"id":1 ,"content":"فیلیموتور"},
+        {"id":2 ,"content":"فیلیمو مدرسه"},
+        {"id":3 ,"content":"جستجو"},
+        {"id":4 ,"content":"خرید اشتراک"},
+        {"id":5 ,"content":"ورود"}
     ],
     "sliders":[
+        {"id":1,"image":"https://static.cdn.asset.filimo.com/ct/9sv2o_mobile_1_v3.jpeg?width=960&quality=85&secret=EHk2YkirQO-k1uxI8FOuDw"},
+        {"id":2,"image":"https://static.cdn.asset.filimo.com/ct/sy6q1_desktop_1_v1.jpeg?width=1920&quality=85&secret=LfntnzJEf8dsXPvTe9VCgw"},
+        {"id":3,"image":"https://static.cdn.asset.filimo.com/ct/kbzf9_desktop_1_v1.jpeg?width=1920&quality=85&secret=XkCuh3Rd1zVdmRz3ojou7w"},
+        {"id":4,"image":"https://static.cdn.asset.filimo.com/ct/3dfqv_desktop_1_v1.jpeg?width=1920&quality=85&secret=iqEte88fiI7rzBQLBcFBKg"},
+        {"id":5,"image":"https://static.cdn.asset.filimo.com/ct/6bgnf_desktop_1_v1.jpeg?width=1920&quality=85&secret=DFB5QXDg77QH_HNqX-8fMg"},
+        {"id":6,"image":"https://static.cdn.asset.filimo.com/ct/0xyc9_desktop_1_v2.jpeg?width=1920&quality=85&secret=FTvZWMCTcUGqCeS3b90Ozg"},
+        {"id":7,"image":"https://static.cdn.asset.filimo.com/ct/146491_desktop_1_v1.jpeg?width=1920&quality=85&secret=0amWTdHPBJWFlyeJ0dg-4Q"},
+        {"id":8,"image":"https://static.cdn.asset.filimo.com/ct/146490_desktop_1_v1.jpeg?width=1920&quality=85&secret=TV-oTq-Vwrk8DiZJHz9oFg"},
+        {"id":9,"image":"https://static.cdn.asset.filimo.com/ct/n81cs_desktop_1_v1.jpeg?width=1920&quality=85&secret=qZkA1J4i7hPpZ81qhCRffQ"},
+        {"id":10,"image":"https://static.cdn.asset.filimo.com/ct/6tdlb_desktop_1_v5.jpeg?width=1920&quality=85&secret=t8RGkFr6TjKyX-BcNmqFFA"},
+        {"id":11,"image":"https://static.cdn.asset.filimo.com/ct/8u9fb_desktop_1_v1.jpeg?width=1920&quality=85&secret=AyC0DGCpL7G9GZlqRViRzA"}
 
     ],
     "Most_popular":[
