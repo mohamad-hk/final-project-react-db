@@ -3,14 +3,12 @@
     "header":[
         {"id":1 ,"content":"فیلیموتور"},
         {"id":2 ,"content":"فیلیمو مدرسه"},
-        {"id":3 ,"content":"جستجو"},
-        {
-            "Customer":[
-                {"id":1 ,"content":"خرید اشتراک"},
-                {"id":2 ,"content":"ورود"}
-            ]
-        }
-
+        {"id":3 ,"content":"جستجو"}
+    ],
+    
+    "Customer":[
+        {"id":1 ,"content":"خرید اشتراک"},
+        {"id":2 ,"content":"ورود"}
     ],
     "sliders":[
         {"id":1,"image":"https://static.cdn.asset.filimo.com/ct/9sv2o_mobile_1_v3.jpeg?width=960&quality=85&secret=EHk2YkirQO-k1uxI8FOuDw"},
