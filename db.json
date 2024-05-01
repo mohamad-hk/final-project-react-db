@@ -60,19 +60,17 @@
     }
   ],
   "Most_popular": [],
-  "How_to_work_section1":{
-    "image":{
-
+  "How_to_work_section1": {
+    "image": {
       "id": 1,
-      "image": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/deviceYaghi.png"
+      "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/deviceYaghi.png"
     },
-    "heading":{
-
+    "heading": {
       "id": 1,
       "heading": "تماشای فیلیمو با همه دستگاه‌ها",
       "description": "می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
     },
-    "content":[
+    "content": [
       {
         "id": 1,
         "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/laptop.png",
@@ -91,11 +89,34 @@
         "title": "کنسول های بازی(Browser)",
         "description": "Xbox Series S - Xbox Seris X - PS5 - PS4"
       }
-
     ]
   },
 
-  "How_to_work_section2": [],
+  "How_to_work_section2": {
+    "image": {
+      "id": 1,
+      "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/TVBG.png"
+    },
+    "heading": {
+      "id": 1,
+      "heading": "چطور با تلویزیون، فیلیمو تماشا کنم؟",
+      "description": "ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید. "
+    },
+    "content": [
+      {
+        "id": 1,
+        "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/laptop.png",
+        "title": "تلویزیون",
+        "description": "Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
+      },
+      {
+        "id": 2,
+        "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/mobile.png",
+        "title": "اندروید تی‌وی",
+        "description": "NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
+      }
+    ]
+  },
   "free_contents": [],
   "cartoons": [],
   "onlline_cinema": [],
