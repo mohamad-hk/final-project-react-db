@@ -60,31 +60,41 @@
     }
   ],
   "Most_popular": [],
-  "How_to_work_section1_image": {
-    "id": 1,
-    "image": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/deviceYaghi.png"
-  },
-  "How_to_work_section1_heading": { "id": 1, "heading": "تماشای فیلیمو با همه دستگاه‌ها", "description": "می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید." },
-  "How_to_work_section1_content": [
-    {
+  "How_to_work_section1":{
+    "image":{
+
       "id": 1,
-      "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/laptop.png",
-      "title": "کامپیوتر و لپ تاپ",
-      "description": "windows PC - MacOS - Chorom OS"
+      "image": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/deviceYaghi.png"
     },
-    {
-      "id": 2,
-      "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/mobile.png",
-      "title": "موبایل و تبلت",
-      "description": "Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+    "heading":{
+
+      "id": 1,
+      "heading": "تماشای فیلیمو با همه دستگاه‌ها",
+      "description": "می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
     },
-    {
-      "id": 3,
-      "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/game.png",
-      "title": "کنسول های بازی(Browser)",
-      "description": "Xbox Series S - Xbox Seris X - PS5 - PS4"
-    }
-  ],
+    "content":[
+      {
+        "id": 1,
+        "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/laptop.png",
+        "title": "کامپیوتر و لپ تاپ",
+        "description": "windows PC - MacOS - Chorom OS"
+      },
+      {
+        "id": 2,
+        "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/mobile.png",
+        "title": "موبایل و تبلت",
+        "description": "Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
+      },
+      {
+        "id": 3,
+        "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/game.png",
+        "title": "کنسول های بازی(Browser)",
+        "description": "Xbox Series S - Xbox Seris X - PS5 - PS4"
+      }
+
+    ]
+  },
+
   "How_to_work_section2": [],
   "free_contents": [],
   "cartoons": [],
