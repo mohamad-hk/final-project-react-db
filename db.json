@@ -132,6 +132,10 @@
     { "id": 2, "content": "۸ ساعت زمان برای مشاهده فیلم در هر کجا" },
     { "id": 3, "content": "خرید یک بلیت برای تماشا همراه با همه خانواده  " }
   ],
+  "comments_icons": [
+    { "id": 1, "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/big-screen_v2/1.png" },
+    { "id": 2, "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/big-screen_v2/virgol.png" }
+  ],
   "comments": [
     {
       "id": 1,
