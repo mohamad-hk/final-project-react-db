@@ -526,81 +526,81 @@
   },
   "free_contents_tag": {
     "id": 1,
-    "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/icon-play.svg"
+    "link": "https://www.filimo.com/assets/web/ui/img-e6kYelyBCM6RSxJ5utJA/campaigns/nosub-v_new/icon-play.svg"
   },
   "free_contents": [
     {
-      "id": 1,
+      "id": "1",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw",
       "title": "پایتخت"
     },
     {
-      "id": 2,
+      "id": "2",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ",
       "title": "عقرب"
     },
     {
-      "id": 3,
+      "id": "3",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA",
       "title": "ملکه گدایان"
     },
     {
-      "id": 4,
+      "id": "4",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ",
       "title": "شاهرگ"
     },
     {
-      "id": 5,
+      "id": "5",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q",
       "title": "بالشها"
     },
     {
-      "id": 6,
+      "id": "6",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA",
       "title": "حماسه دره شیلر"
     },
     {
-      "id": 7,
+      "id": "7",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog",
       "title": "شب های مافیا 2"
     },
     {
-      "id": 8,
+      "id": "8",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82692_194-b.jpg?width=165&quality=85&secret=XlHlDu3cATALZhmyuhFrXQ",
       "title": "مردم معمولی"
     },
     {
-      "id": 9,
+      "id": "9",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_37557_65703.jpg?width=165&quality=85&secret=sFeug_xad-7HaV_WbrClGQ",
       "title": "دیرین دیرین"
     },
     {
-      "id": 10,
+      "id": "10",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA",
       "title": "سال های دور از خانه"
     },
     {
-      "id": 11,
+      "id": "11",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165&quality=85&secret=1_5lgLmmEx8UpnWb6jHY1A",
       "title": "دراکولا"
     },
     {
-      "id": 12,
+      "id": "12",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_42788_258-b.jpg?width=165&quality=85&secret=DFw_JKP6DOvyxBxiKkpD3Q",
       "title": "سجاده آتش"
     },
     {
-      "id": 13,
+      "id": "13",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_36180_850-b.jpg?width=165&quality=85&secret=nTriltwu8OPuYXx9nxE6Vg",
       "title": "شب های مافیا"
     },
     {
-      "id": 14,
+      "id": "14",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41499_219-b.jpg?width=165&quality=85&secret=L56LMdyMy6j0qUEywlywKQ",
       "title": "خوب بد جلف: رادیواکتیو"
     },
     {
-      "id": 15,
+      "id": "15",
       "link": "https://static.cdn.asset.filimo.com/flmt/mov_7389_194-b.jpg?width=165&quality=85&secret=9OzwrFV1bRD0UH1xSASxVA",
       "title": "رفیق فابریک"
     }
@@ -737,5 +737,29 @@
     { "id": 1, "content": "هزاران انیمیشن و کارتون برای کودکان" },
     { "id": 1, "content": "پشتیبانی 24 ساعته برای راهنمایی شما" }
   ],
-  "footer": []
+  "footer": [
+    { "id": "1", "items": [] },
+    { "id": "2", "items": [] },
+    { "id": "3", "items": [] },
+    { "id": "4", "items": [] },
+    {
+      "id": "5",
+      "items": [
+        { "id": "1", "item": "قوانین" },
+        { "id": "2", "item": "به ما بپیوندید" },
+        { "id": "3", "item": "تبلیغات در فیلیمو" },
+        { "id": "4", "item": "لوگو" },
+        { "id": "5", "item": "دانلود فیلم و سریال" }
+      ]
+    },
+    {
+      "id": "6",
+      "items": [
+        { "id": "1", "item": "آپارات" },
+        { "id": "2", "item": "تلگرام" },
+        { "id": "3", "item": "توئیتر" },
+        { "id": "4", "item": "اینستاگرام" }
+      ]
+    }
+  ]
 }
