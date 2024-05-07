@@ -4,9 +4,9 @@
     "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/filimo/fa-filimo-dark-logo.svg"
   },
   "header": [
-    { "id": 1, "content": "فیلیموتور" },
-    { "id": 2, "content": "فیلیمو مدرسه" },
-    { "id": 3, "content": "جستجو" }
+    { "id": 1, "logo": "", "content": "فیلیموتور" },
+    { "id": 2, "logo": "", "content": "فیلیمو مدرسه" },
+    { "id": 3, "logo": "", "content": "جستجو" }
   ],
 
   "Customer": [
@@ -468,10 +468,16 @@
     }
   ],
   "How_to_work_section1": {
-    "image": {
-      "id": 1,
-      "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/deviceYaghi.png"
-    },
+    "image": [
+      {
+        "id": "1",
+        "link": "https://www.filimo.com/assets/web/ui/img-e6kYelyBCM6RSxJ5utJA/campaigns/nosub-v_new/device2.png"
+      },
+      {
+        "id": "2",
+        "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/deviceYaghi.png"
+      }
+    ],
     "heading": {
       "id": 1,
       "heading": "تماشای فیلیمو با همه دستگاه‌ها",
@@ -500,10 +506,16 @@
   },
 
   "How_to_work_section2": {
-    "image": {
-      "id": 1,
-      "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/TVBG.png"
-    },
+    "image": [
+      {
+        "id": "1",
+        "link": "https://www.filimo.com/assets/web/ui/img-e6kYelyBCM6RSxJ5utJA/campaigns/nosub-v_new/TVBG-yaghi.png"
+      },
+      {
+        "id": "2",
+        "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/TVBG.png"
+      }
+    ],
     "heading": {
       "id": 1,
       "heading": "چطور با تلویزیون، فیلیمو تماشا کنم؟",
