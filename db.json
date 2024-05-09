@@ -1,7 +1,7 @@
 {
   "logo": {
     "id": 1,
-    "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/filimo/fa-filimo-dark-logo.svg"
+    "link": "https://www.filimo.com/assets/web/ui/img-s353mw9fPKUZk5CZ8mOShw/filimo/fa-filimo-dark-logo.svg"
   },
   "header": [
     { "id": 1, "logo": "", "content": "فیلیموتور" },
@@ -73,11 +73,13 @@
       "parts": [
         {
           "id": "1",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_146003_156081.jpg?width=220&quality=85&secret=7p-H9xydf7SVZvMeAZ8f_g",
           "title": "فصل 1 قسمت 1"
         },
         {
           "id": "2",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_146564_156631.jpg?width=220&quality=85&secret=OGpWOb7OnkZEDRnDDtvZ8Q",
           "title": "فصل1 قسمت 2"
         }
@@ -98,41 +100,49 @@
       "parts": [
         {
           "id": "1",
+          "status": "open",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_134637_57892.jpg?width=220&quality=85&secret=ElFYnUXBtrQ8tnUaXEEBsQ",
           "title": ": ایران دخت فصل 1 قسمت 1"
         },
         {
           "id": "2",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_134877_58009.jpg?width=220&quality=85&secret=DTICd9tzJEG8XQuWLASoFA",
           "title": "کاک وهب:فصل 1 قسمت 2"
         },
         {
           "id": "3",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_135002_58430.jpg?width=220&quality=85&secret=P6tkL-51vYpcu4eyktmN3A",
           "title": " سلام سینما:فصل 1 قسمت 3"
         },
         {
           "id": "4",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_135237_58998.jpg?width=220&quality=85&secret=a94QvTPcYhn8lf-wG9t2cQ",
           "title": "رفاقت:فصل 1 قسمت 4"
         },
         {
           "id": "5",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_135423_59160.jpg?width=220&quality=85&secret=TPwqNlgXg1uJNLDQ-E9eDQ",
           "title": "بچه های ایران:فصل 1 قسمت 5"
         },
         {
           "id": "6",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_135657_59363.jpg?width=220&quality=85&secret=pe-X0EGh9dcVZw8uCp3uBQ",
           "title": "میم مثل مادر:فصل 1 قسمت 6"
         },
         {
           "id": "7",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_135832_59685.jpg?width=220&quality=85&secret=_JOCKNV4Wmi-ArzoMXpB6A",
           "title": "طقلی به نام شادی:فصل 1 قسمت 7"
         },
         {
           "id": "8",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_135981_62356.jpg?width=220&quality=85&secret=HLOrh-F8WzZuwzcHWZrgpA",
           "title": "برای آینده:فصل 1 قسمت 8"
         }
@@ -153,21 +163,25 @@
       "parts": [
         {
           "id": "1",
+          "status": "open",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_142033_72421.jpg?width=220&quality=85&secret=qJ5TcZ8YIuLdXpcKZuGaKA",
           "title": "فصل1 قسمت1"
         },
         {
           "id": "2",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144017_72682.jpg?width=220&quality=85&secret=hUZ2xvBsI_3Bg_5a8Suv3A",
           "title": "فصل1 2قسمت"
         },
         {
           "id": "3",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144159_106140.jpg?width=220&quality=85&secret=K7x9mX-PXhbp3boWCn_Csg",
           "title": "فصل1 3قسمت"
         },
         {
           "id": "4",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144285_150730.jpg?width=220&quality=85&secret=t-TsevBdJv8AxH-T3houoA",
           "title": "فصل1 4قسمت"
         }
@@ -188,41 +202,49 @@
       "parts": [
         {
           "id": "1",
+          "status": "open",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_141217_70888.jpg?width=220&quality=85&secret=9Ivk16uBlt7bxji0WaqxHw",
           "title": "فصل1 قسمت 1"
         },
         {
           "id": "2",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_142984_72075.jpg?width=220&quality=85&secret=-oo_VJwokRnWktOtIsCWHg",
           "title": "فصل1 قسمت 2"
         },
         {
           "id": "3",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_143710_72423.jpg?width=220&quality=85&secret=tw9IJqMcVriIjBM2XGl6iw",
           "title": "فصل1 قسمت 3"
         },
         {
           "id": "4",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_143887_72422.jpg?width=220&quality=85&secret=n5FsTe-FdyxcdyQicuIbxw",
           "title": "فصل1 قسمت 4"
         },
         {
           "id": "5",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144020_72678.jpg?width=220&quality=85&secret=puROt8ViiG2qt7K7hU3Hgw",
           "title": "فصل1 قسمت 5"
         },
         {
           "id": "6",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144162_105952.jpg?width=220&quality=85&secret=DDwzoGgJj4IrduZC4v6MPw",
           "title": "فصل1 قسمت 6"
         },
         {
           "id": "7",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144289_150726.jpg?width=220&quality=85&secret=Sl_Ua2m2V_d2CNOnX7I4Jg",
           "title": "فصل1 قسمت 7"
         },
         {
           "id": "8",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_144416_151500.jpg?width=220&quality=85&secret=QKU1tVTUmcveoC5C3XuXRg",
           "title": "فصل1 قسمت 8"
         }
@@ -243,41 +265,49 @@
       "parts": [
         {
           "id": "1",
+          "status": "open",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_137339_61705.jpg?width=220&quality=85&secret=XrzarFR0AQ8Af5r_5AZ5lA",
           "title": "آموزش شب های مافیا: زودیاک"
         },
         {
           "id": "2",
+          "status": "open",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_137105_61943.jpg?width=220&quality=85&secret=4mXfskQHh02pUoNCwLlnOQ",
           "title": "فصل1 قسمت 1"
         },
         {
           "id": "3",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_137502_62093.jpg?width=220&quality=85&secret=3ou1oj7kgmJMnfGfnOnEfA",
           "title": "فصل1 قسمت 2"
         },
         {
           "id": "4",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_137503_62992.jpg?width=220&quality=85&secret=8a0BQX9_zQ8LWbiyNQbA8w",
           "title": "فصل1 قسمت 3"
         },
         {
           "id": "5",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_138498_63954.jpg?width=220&quality=85&secret=p4w82CBL-OvYSLNdvglZFA",
           "title": "فصل1 قسمت 4"
         },
         {
           "id": "6",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_138750_64406.jpg?width=220&quality=85&secret=1pMMWI-EmvPmEhRlcdpFbA",
           "title": "فصل1 قسمت 5"
         },
         {
           "id": "7",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_138953_64779.jpg?width=220&quality=85&secret=BmvWsgf3pweYzL41yMlhCQ",
           "title": "فصل1 قسمت 6"
         },
         {
           "id": "8",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_139168_64857.jpg?width=220&quality=85&secret=HcBjoBiVHprtXek28LELrQ",
           "title": "فصل1 قسمت 7"
         }
@@ -298,41 +328,49 @@
       "parts": [
         {
           "id": "1",
+          "status": "open",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145274_153192.jpg?width=220&quality=85&secret=hJxuqHrEcNzt3lqvxNU4Xg",
           "title": "فصل 1 قسمت 1"
         },
         {
           "id": "2",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145326_153354.jpg?width=220&quality=85&secret=Q4prebu5Q0s2bacd0PusbQ",
           "title": "فصل1 قسمت 2"
         },
         {
           "id": "3",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145327_153356.jpg?width=220&quality=85&secret=8vHNY8ftwYqH7KjmMnaSGg",
           "title": "فصل1 قسمت 3"
         },
         {
           "id": "4",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145328_153358.jpg?width=220&quality=85&secret=zeBQ2yUrxmfTheO_IfbDLg",
           "title": "فصل1 قسمت 4"
         },
         {
           "id": "5",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145329_154680.jpg?width=220&quality=85&secret=rl6xR7EIfWUV7MWyT9Cl1w",
           "title": "فصل1 قسمت 5"
         },
         {
           "id": "6",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145330_155525.jpg?width=220&quality=85&secret=JkK_WKYHmW7RG-5H0MlBZQ",
           "title": "فصل1 قسمت 6"
         },
         {
           "id": "7",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145331_155889.jpg?width=220&quality=85&secret=P-1XewhJ60ofI8J74iUyHg",
           "title": "فصل1 قسمت 7"
         },
         {
           "id": "8",
+          "status": "locked",
           "image": "https://static.cdn.asset.filimo.com/flmt/mov_145332_156459.jpg?width=220&quality=85&secret=0ORdUdm3S4vGTxBLYFll7g",
           "title": "فصل1 قسمت 8"
         }
