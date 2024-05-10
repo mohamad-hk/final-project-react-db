@@ -8,20 +8,6 @@
     { "id": 2, "logo": "", "content": "فیلیمو مدرسه" },
     { "id": 3, "logo": "", "content": "جستجو" }
   ],
-  "slider_section3": [
-    {
-      "id": 1,
-      "content": "                  90 هزار ایپزود فیلم وسریال برای تماشا داری      "
-    },
-    {
-      "id": 2,
-      "content": "                  می تونی دانلود کنی بعد بدون اینترنت تماشا کنی      "
-    },
-    {
-      "id": 3,
-      "content": "می تونی یک عضو، مخصوص تماشای کودک بسازی"
-    }
-  ],
 
   "Customer": [
     { "id": 1, "content": "خرید اشتراک" },
@@ -71,6 +57,32 @@
     {
       "id": 11,
       "image": "https://static.cdn.asset.filimo.com/ct/8u9fb_desktop_1_v1.jpeg?width=1920&quality=85&secret=AyC0DGCpL7G9GZlqRViRzA"
+    }
+  ],
+  "sliders_section1": [
+    {
+      "id": 1,
+      "content": "  با فیلیمو بی وقفه فیلم ببین  "
+    }
+  ],
+  "sliders_section2": [
+    {
+      "id": 1,
+      "content": "               کنترل همیشه در دست توست!      "
+    }
+  ],
+  "sliders_section3": [
+    {
+      "id": 1,
+      "content": "                  90 هزار ایپزود فیلم وسریال برای تماشا داری      "
+    },
+    {
+      "id": 2,
+      "content": "                  می تونی دانلود کنی بعد بدون اینترنت تماشا کنی      "
+    },
+    {
+      "id": 3,
+      "content": "می تونی یک عضو، مخصوص تماشای کودک بسازی"
     }
   ],
   "Most_popular_series": [
