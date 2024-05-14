@@ -4,84 +4,84 @@
     "link": "https://www.filimo.com/assets/web/ui/img-s353mw9fPKUZk5CZ8mOShw/filimo/fa-filimo-dark-logo.svg"
   },
   "header": [
-    { "id": 1, "logo": "", "content": "فیلیموتور" },
-    { "id": 2, "logo": "", "content": "فیلیمو مدرسه" },
-    { "id": 3, "logo": "", "content": "جستجو" }
+    { "id": "1", "logo": "", "content": "فیلیموتور" },
+    { "id": "2", "logo": "", "content": "فیلیمو مدرسه" },
+    { "id": "3", "logo": "", "content": "جستجو" }
   ],
 
   "Customer": [
-    { "id": 1, "content": "خرید اشتراک" },
-    { "id": 2, "content": "ورود" }
+    { "id": "1", "content": "خرید اشتراک" },
+    { "id": "2", "content": "ورود" }
   ],
   "sliders": [
     {
-      "id": 1,
+      "id": "1",
       "image": "https://static.cdn.asset.filimo.com/ct/9sv2o_desktop_1_v3.jpeg?width=960&quality=85&secret=EHk2YkirQO-k1uxI8FOuDw"
     },
     {
-      "id": 2,
+      "id": "2",
       "image": "https://static.cdn.asset.filimo.com/ct/sy6q1_desktop_1_v1.jpeg?width=1920&quality=85&secret=LfntnzJEf8dsXPvTe9VCgw"
     },
     {
-      "id": 3,
+      "id": "3",
       "image": "https://static.cdn.asset.filimo.com/ct/kbzf9_desktop_1_v1.jpeg?width=1920&quality=85&secret=XkCuh3Rd1zVdmRz3ojou7w"
     },
     {
-      "id": 4,
+      "id": "4",
       "image": "https://static.cdn.asset.filimo.com/ct/3dfqv_desktop_1_v1.jpeg?width=1920&quality=85&secret=iqEte88fiI7rzBQLBcFBKg"
     },
     {
-      "id": 5,
+      "id": "5",
       "image": "https://static.cdn.asset.filimo.com/ct/6bgnf_desktop_1_v1.jpeg?width=1920&quality=85&secret=DFB5QXDg77QH_HNqX-8fMg"
     },
     {
-      "id": 6,
+      "id": "6",
       "image": "https://static.cdn.asset.filimo.com/ct/0xyc9_desktop_1_v2.jpeg?width=1920&quality=85&secret=FTvZWMCTcUGqCeS3b90Ozg"
     },
     {
-      "id": 7,
+      "id": "7",
       "image": "https://static.cdn.asset.filimo.com/ct/146491_desktop_1_v1.jpeg?width=1920&quality=85&secret=0amWTdHPBJWFlyeJ0dg-4Q"
     },
     {
-      "id": 8,
+      "id": "8",
       "image": "https://static.cdn.asset.filimo.com/ct/146490_desktop_1_v1.jpeg?width=1920&quality=85&secret=TV-oTq-Vwrk8DiZJHz9oFg"
     },
     {
-      "id": 9,
+      "id": "9",
       "image": "https://static.cdn.asset.filimo.com/ct/n81cs_desktop_1_v1.jpeg?width=1920&quality=85&secret=qZkA1J4i7hPpZ81qhCRffQ"
     },
     {
-      "id": 10,
+      "id": "10",
       "image": "https://static.cdn.asset.filimo.com/ct/6tdlb_desktop_1_v5.jpeg?width=1920&quality=85&secret=t8RGkFr6TjKyX-BcNmqFFA"
     },
     {
-      "id": 11,
+      "id": "11",
       "image": "https://static.cdn.asset.filimo.com/ct/8u9fb_desktop_1_v1.jpeg?width=1920&quality=85&secret=AyC0DGCpL7G9GZlqRViRzA"
     }
   ],
   "sliders_section1": [
     {
-      "id": 1,
+      "id": "1",
       "content": "  با فیلیمو بی وقفه فیلم ببین  "
     }
   ],
   "sliders_section2": [
     {
-      "id": 1,
-      "content": "               کنترل همیشه در دست توست!      "
+      "id": "1",
+      "content": "   کنترل همیشه در دست توست!      "
     }
   ],
   "sliders_section3": [
     {
-      "id": 1,
-      "content": "                  90 هزار ایپزود فیلم وسریال برای تماشا داری      "
+      "id": "1",
+      "content": " 90 هزار ایپزود فیلم وسریال برای تماشا داری      "
     },
     {
-      "id": 2,
-      "content": "                  می تونی دانلود کنی بعد بدون اینترنت تماشا کنی      "
+      "id": "2",
+      "content": " می تونی دانلود کنی بعد بدون اینترنت تماشا کنی      "
     },
     {
-      "id": 3,
+      "id": "3",
       "content": "می تونی یک عضو، مخصوص تماشای کودک بسازی"
     }
   ],
@@ -407,14 +407,14 @@
   ],
   "Most_popular_movies": [
     {
-      "id": 1,
+      "id": "1",
       "image": "https://static.cdn.asset.filimo.com/flmt/mov_145103_152533.jpg?width=165&quality=85&secret=G95_wAj3uUVsDAveZMBp3w",
       "title": "فسیل",
       "director": "کریم امینی",
       "imdb_score": "5.4",
       "genres": [
-        { "id": 1, "genre": "کمدی" },
-        { "id": 2, "genre": "خانوادگی" }
+        { "id": "1", "genre": "کمدی" },
+        { "id": "2", "genre": "خانوادگی" }
       ],
       "description": "فسیل داستان سه دوست را در پیش از انقلاب ایران روایت می‌کند که عضو یک گروه موسیقی‌ اند و برای کسب شهرت تلاش می‌کنند.      ",
       "more_data": {
@@ -428,14 +428,14 @@
       "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145103_992.jpg?width=1920&quality=80&secret=KVmjn2BTiEfvuGz5-bIO5w"
     },
     {
-      "id": 2,
+      "id": "2",
       "image": "https://static.cdn.asset.filimo.com/flmt/mov_144197_152428.jpg?width=165&quality=85&secret=_h06YbaofoWO6ivilAXshQ",
       "title": "هولیا",
       "director": "مرتضی آتش زمزم",
       "imdb_score": "2.3",
       "genres": [
-        { "id": 1, "genre": "کمدی" },
-        { "id": 2, "genre": "خانوادگی" }
+        { "id": "1", "genre": "کمدی" },
+        { "id": "2", "genre": "خانوادگی" }
       ],
       "description": "در ایران پدر و مادرها به بچه هاشون اجازه هر کاری را نمی دهند، ولی همیشه نوه داستانش فرق داره!      ",
       "more_data": {
@@ -449,14 +449,14 @@
       "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_144197_4914.jpg?width=1920&quality=90&secret=sVOFV4W3ZTGullyFD8N0Tw"
     },
     {
-      "id": 3,
+      "id": "3",
       "image": "https://static.cdn.asset.filimo.com/flmt/mov_145544_153457.jpg?width=165&quality=85&secret=ca2lkwGkZ5rLY-1LPHZcsA",
       "title": "بی همه چیز",
       "director": "محسن قرایی",
       "imdb_score": "7.2",
       "genres": [
-        { "id": 1, "genre": "درام" },
-        { "id": 2, "genre": "خانوادگی" }
+        { "id": "1", "genre": "درام" },
+        { "id": "2", "genre": "خانوادگی" }
       ],
       "description": "امیر مردی است که معتمد مردم یک روستا است و بخش مهمی از امور روستا بر عهده اوست. زن ثروتمندی از اهالی آنجا پس از سال ها به زادگاهش باز می گردد و به خاطر کینه ای که از امیر به دل دارد به مردم وعده می دهد اگر او را بکشند، پول زیادی نصیبشان خواهد شد. طولی نمی کشد که رفتار مردم با امیر عوض می شود...      ",
       "more_data": {
@@ -470,14 +470,14 @@
       "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145544_229.jpg?width=1920&quality=80&secret=eumwCpe255bGm4EbIMUEOg"
     },
     {
-      "id": 4,
+      "id": "4",
       "image": "https://static.cdn.asset.filimo.com/flmt/mov_145138_152883.jpg?width=165&quality=85&secret=TV8OQYZ3fA_QJ3HIeUzT-A",
       "title": "زنبور کارگر",
       "director": "افشین صادقی",
       "imdb_score": "4.2",
       "genres": [
-        { "id": 1, "genre": "درام" },
-        { "id": 2, "genre": "جنایی" }
+        { "id": "1", "genre": "درام" },
+        { "id": "2", "genre": "جنایی" }
       ],
       "description": "سال ها پیش، بیوک همسرش را به خاطر خطای پزشک از دست داده و در نزاعی به قتل می رسد. اکنون دخترش به دنبال انتقام از قاتل اوست و تنها شاهد این اتفاق، نامزد قاتل است.      ",
       "more_data": {
@@ -491,12 +491,12 @@
       "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145138_894.jpg?width=1920&quality=80&secret=D_s_pB4poGSUoPgPJBCAHg"
     },
     {
-      "id": 5,
+      "id": "5",
       "image": "https://static.cdn.asset.filimo.com/flmt/mov_144888_152523.jpg?width=165&quality=85&secret=mYfXtrwli9h_6yxCzIzKFg",
       "title": "کاپیتان من",
       "director": "سیاوش صفاریان پور",
       "imdb_score": "",
-      "genres": [{ "id": 1, "genre": "مستند" }],
+      "genres": [{ "id": "1", "genre": "مستند" }],
       "description": "«کاپیتان من»، فیلم مستند علمی با موضوع مغز انسان است که بهرام رادان به عنوان راوی آن در جستجوی اهمیت مغز، مخاطبان را با مباحثی همچون شکل گیری ساختار مغز در هزار روز اول زندگی، طرز کار حافظه و فرآیند به خاطر سپردن و یادآوری خاطرات آشنا می کند.      ",
       "more_data": {
         "age": "بالای 15 سال",
@@ -510,14 +510,14 @@
     },
 
     {
-      "id": 6,
+      "id": "6",
       "image": "https://static.cdn.asset.filimo.com/flmt/mov_144353_120639.jpg?width=165&quality=85&secret=Sg8bUv5jiOrp9hUDlJdKrQ",
       "title": "منشی مخصوص من",
       "director": "صالخ دلدم",
       "imdb_score": "3.3",
       "genres": [
-        { "id": 1, "genre": "کمدی" },
-        { "id": 2, "genre": "خانوادگی" }
+        { "id": "1", "genre": "کمدی" },
+        { "id": "2", "genre": "خانوادگی" }
       ],
       "description": "بزرگ زاده تاجری پا به سن گذاشته است که شب عید بهانه ای پیش می کشد تا همسرش تنها به مسافرت برود و عید را با هرکس که دوست دارد سپری کند. اما آمدن ناگهانی پسری جوان و ملاقاتش با منشی او همه چیز را بهم می ریزد و از شب عید تا سیزده به در بزرگ زاده را دچار دردسر می کند...      ",
       "more_data": {
@@ -532,7 +532,7 @@
     }
   ],
   "Most_popular_mobies_imdb_logo": {
-    "id": 1,
+    "id": "1",
     "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/icon-imdb.png"
   },
   "How_to_work_section1": {
@@ -547,25 +547,25 @@
       }
     ],
     "heading": {
-      "id": 1,
+      "id": "1",
       "heading": "تماشای فیلیمو با همه دستگاه‌ها",
       "description": "می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید."
     },
     "content": [
       {
-        "id": 1,
+        "id": "1",
         "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/laptop.png",
         "title": "کامپیوتر و لپ تاپ",
         "description": "windows PC - MacOS - Chorom OS"
       },
       {
-        "id": 2,
+        "id": "2",
         "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/mobile.png",
         "title": "موبایل و تبلت",
         "description": "Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"
       },
       {
-        "id": 3,
+        "id": "3",
         "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/game.png",
         "title": "کنسول های بازی(Browser)",
         "description": "Xbox Series S - Xbox Seris X - PS5 - PS4"
@@ -584,19 +584,19 @@
       }
     ],
     "heading": {
-      "id": 1,
+      "id": "1",
       "heading": "چطور با تلویزیون، فیلیمو تماشا کنم؟",
       "description": "ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید. "
     },
     "content": [
       {
-        "id": 1,
+        "id": "1",
         "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/TV.png",
         "title": "تلویزیون",
         "description": "Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"
       },
       {
-        "id": 2,
+        "id": "2",
         "icon": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/androidTV.png",
         "title": "اندروید تی‌وی",
         "description": "NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
@@ -604,221 +604,145 @@
     ]
   },
   "free_contents_tag": {
-    "id": 1,
+    "id": "1",
     "link": "https://www.filimo.com/assets/web/ui/img-s353mw9fPKUZk5CZ8mOShw/campaigns/nosub-v_new/icon-play.svg"
   },
-  "free_contents": [
-    {
-      "id": "1",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw",
-      "title": "پایتخت"
-    },
-    {
-      "id": "2",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ",
-      "title": "عقرب"
-    },
-    {
-      "id": "3",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA",
-      "title": "ملکه گدایان"
-    },
-    {
-      "id": "4",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ",
-      "title": "شاهرگ"
-    },
-    {
-      "id": "5",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q",
-      "title": "بالشها"
-    },
-    {
-      "id": "6",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA",
-      "title": "حماسه دره شیلر"
-    },
-    {
-      "id": "7",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog",
-      "title": "شب های مافیا 2"
-    },
-    {
-      "id": "8",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82692_194-b.jpg?width=165&quality=85&secret=XlHlDu3cATALZhmyuhFrXQ",
-      "title": "مردم معمولی"
-    },
-    {
-      "id": "9",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_37557_65703.jpg?width=165&quality=85&secret=sFeug_xad-7HaV_WbrClGQ",
-      "title": "دیرین دیرین"
-    },
-    {
-      "id": "10",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA",
-      "title": "سال های دور از خانه"
-    },
-    {
-      "id": "11",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165&quality=85&secret=1_5lgLmmEx8UpnWb6jHY1A",
-      "title": "دراکولا"
-    },
-    {
-      "id": "12",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_42788_258-b.jpg?width=165&quality=85&secret=DFw_JKP6DOvyxBxiKkpD3Q",
-      "title": "سجاده آتش"
-    },
-    {
-      "id": "13",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_36180_850-b.jpg?width=165&quality=85&secret=nTriltwu8OPuYXx9nxE6Vg",
-      "title": "شب های مافیا"
-    },
-    {
-      "id": "14",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41499_219-b.jpg?width=165&quality=85&secret=L56LMdyMy6j0qUEywlywKQ",
-      "title": "خوب بد جلف: رادیواکتیو"
-    },
-    {
-      "id": "15",
-      "link": "https://static.cdn.asset.filimo.com/flmt/mov_7389_194-b.jpg?width=165&quality=85&secret=9OzwrFV1bRD0UH1xSASxVA",
-      "title": "رفیق فابریک"
-    }
-  ],
+
   "Child_Filimo": {
     "image": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/bg-kids.png",
     "heading": "دنیایی متنوع از فیلم و کارتون‌های کودکانه",
     "description": "ساخت فیلیمو کودک این امکان را می‌دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال‌ها دسترسی نداشته‌باشد.",
     "buttons": [
-      { "id": 1, "content": "فیلیمو کودک بساز" },
-      { "id": 2, "content": "تماشای فیلم کودک" }
+      { "id": "1", "content": "فیلیمو کودک بساز" },
+      { "id": "2", "content": "تماشای فیلم کودک" }
     ]
   },
   "onlline_cinema_title": [
-    { "id": 1, "content": "فیلم‌های روز سینمای ایران  " },
-    { "id": 2, "content": "۸ ساعت زمان برای مشاهده فیلم در هر کجا" },
-    { "id": 3, "content": "خرید یک بلیت برای تماشا همراه با همه خانواده  " }
+    { "id": "1", "content": "فیلم‌های روز سینمای ایران  " },
+    { "id": "2", "content": "۸ ساعت زمان برای مشاهده فیلم در هر کجا" },
+    { "id": "3", "content": "خرید یک بلیت برای تماشا همراه با همه خانواده  " }
   ],
   "onlline_cinema_cover": {
-    "id": 1,
+    "id": "1",
     "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/bg-cinama.png"
   },
   "comments_icons": [
     {
-      "id": 1,
+      "id": "1",
       "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/big-screen_v2/1.png"
     },
     {
-      "id": 2,
+      "id": "2",
       "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/big-screen_v2/virgol.png"
     }
   ],
   "comments": [
     {
-      "id": 1,
+      "id": "1",
       "user": "سالار",
       "comment": " همه نصب کنید. رایگان هم داره، با پول هم داره. همه ی فیلم های :کمدی، اکشن، درام،عاشقانه،ترسناک و کارتون توش موجود هست . پر از هیجان و شگفتی😎🥸🤓🤠👍🏻👍🏻👍🏻"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": "نیکا کاوند",
       "comment": "واقعا عالیه.😚 خیلی برنامه عالیه😻😻 من ۵ سال این برنانه رو دارم...🌹 درسته یکم اشتراکاش گرونه ولی هنوزم خوبه.💙❤ ولی اینترنتش نیمبهاست🌹🌹😻 ممنون از برنامه ی خوبتون🌹❤"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": "fatemehfarahmandfar6",
       "comment": "فیلیمو عالی من از فیلیمو رازی هستم❤❤😍🤩😘❤🍓"
     },
     {
-      "id": 4,
+      "id": "4",
       "user": "ستایش",
       "comment": "عالیییبیبیییییییی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید 🤗🤗"
     },
     {
-      "id": 5,
+      "id": "5",
       "user": "احسان",
       "comment": "محشره 👌 واقعا دمتون گرم ، خب چیزی که باید به گرونی اشتراک بگم اینه که گرونه اما خب با این همه دوبله ، زحمت ، ساخت فیلم و سریال های ویژه خب قیمتش چیزی نیست ولی خب دیگه چیزی نمیشه گفت "
     },
     {
-      "id": 6,
+      "id": "6",
       "user": "F.A",
       "comment": "خیلی خوبه تازه فیلم های 2021 رو هم با دوبله داره "
     },
     {
-      "id": 7,
+      "id": "7",
       "user": "RAMTIN",
       "comment": " عالیه خیلی فیلم و سریال های قشنگی داره "
     },
     {
-      "id": 8,
+      "id": "8",
       "user": "آوا",
       "comment": " خیلی خوب بود من راحت فیِلمی را که دوست داشتمو دانلود میکردم وغیر از دانلود راحت میتونستم فیلموببینم درهرحال راضیم ازاین برنامه."
     },
     {
-      "id": 9,
+      "id": "9",
       "user": "محسن مرصاد",
       "comment": " یعنی حرف نداره فقط کافیه اشتراک شو فعال کنی میتونی کل فیل و سریالدهارو راحت تماشا کنی"
     },
     {
-      "id": 10,
+      "id": "10",
       "user": "ابوالفضل خورسی",
       "comment": " یعنی حرف نداره فقط کافیه اشتراک شو فعال کنی میتونی کل فیل و سریالدهارو راحت تماشا کنی"
     },
     {
-      "id": 11,
+      "id": "11",
       "user": "سایمان",
       "comment": "این برنامه خیلی خوبه من داخل این فیلم نگاه می کنم کلی مامانم فیلم های بزرگسالان نگاه می‌کنه "
     },
     {
-      "id": 12,
+      "id": "12",
       "user": "Manidriver",
       "comment": " فیلیمو راضیوم ازت😍😍"
     },
     {
-      "id": 13,
+      "id": "13",
       "user": "TahaDamghani",
       "comment": "  عالی، می‌تونی هر فیلمی رو با دوبله و زیرنویس فارسی تماشا کنی. تازه فیلیمو کیفیت پخش آنلاین رو با سرعت اینترنت تنظیم می‌کنه تا بدون توقف فیلم ببینی. دسته‌بندی هم داره و قیمت اشتراکش نسبت به برنامه‌های مشابه خارجی خیلی ارزونتره و ساخت حساب کاربری هم رایگانه. پیشنهاد می‌کنم حتما این برنامه رو نصب کنید."
     },
     {
-      "id": 14,
+      "id": "14",
       "user": "aref",
       "comment": " خیلی برنامه خوبی هست و خیلی سریال متنوع داره"
     },
     {
-      "id": 15,
+      "id": "15",
       "user": "mostafa",
       "comment": " از وقتی فیلیمو رو نصب کردم دیگه تلوزیون نگاه نمیکنم"
     }
   ],
   "FAQ": [
     {
-      "id": 1,
+      "id": "1",
       "title": "آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟    ",
       "content": "بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق  اپلیکیشن را تماشا کنید. "
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "آیا فیلیمو برای خارج از ایران در دسترس است؟    ",
       "content": "خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست."
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟    ",
       "content": "تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید."
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟    ",
       "content": "برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
     }
   ],
   "advertise_logo": {
-    "id": 1,
+    "id": "1",
     "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/logo_text.png"
   },
   "advertise": [
-    { "id": 1, "content": "هزاران فیلم و سریال خارجی (دوبله و زیرنویس)" },
-    { "id": 2, "content": "هزاران انیمیشن و کارتون برای کودکان" },
-    { "id": 3, "content": "پشتیبانی 24 ساعته برای راهنمایی شما" }
+    { "id": "1", "content": "هزاران فیلم و سریال خارجی (دوبله و زیرنویس)" },
+    { "id": "2", "content": "هزاران انیمیشن و کارتون برای کودکان" },
+    { "id": "3", "content": "پشتیبانی 24 ساعته برای راهنمایی شما" }
   ],
   "footer": [
     { "id": "1", "title": "تماشا با تلویزیون ها", "items": [] },
