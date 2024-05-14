@@ -698,13 +698,10 @@
     { "id": 2, "content": "۸ ساعت زمان برای مشاهده فیلم در هر کجا" },
     { "id": 3, "content": "خرید یک بلیت برای تماشا همراه با همه خانواده  " }
   ],
-  "onlline_cinema_cover": [
-    {
-      "id": 1,
-      "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/bg-cinama.png"
-    }
-  ],
-
+  "onlline_cinema_cover": {
+    "id": 1,
+    "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/bg-cinama.png"
+  },
   "comments_icons": [
     {
       "id": 1,
@@ -820,8 +817,8 @@
   },
   "advertise": [
     { "id": 1, "content": "هزاران فیلم و سریال خارجی (دوبله و زیرنویس)" },
-    { "id": 1, "content": "هزاران انیمیشن و کارتون برای کودکان" },
-    { "id": 1, "content": "پشتیبانی 24 ساعته برای راهنمایی شما" }
+    { "id": 2, "content": "هزاران انیمیشن و کارتون برای کودکان" },
+    { "id": 3, "content": "پشتیبانی 24 ساعته برای راهنمایی شما" }
   ],
   "footer": [
     { "id": "1", "title": "تماشا با تلویزیون ها", "items": [] },
