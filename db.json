@@ -698,6 +698,13 @@
     { "id": 2, "content": "۸ ساعت زمان برای مشاهده فیلم در هر کجا" },
     { "id": 3, "content": "خرید یک بلیت برای تماشا همراه با همه خانواده  " }
   ],
+  "onlline_cinema_cover": [
+    {
+      "id": 1,
+      "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/bg-cinama.png"
+    }
+  ],
+
   "comments_icons": [
     {
       "id": 1,
