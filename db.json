@@ -1,8 +1,4 @@
 {
-  "logo": {
-    "id": 1,
-    "link": "https://www.filimo.com/assets/web/ui/img-s353mw9fPKUZk5CZ8mOShw/filimo/fa-filimo-dark-logo.svg"
-  },
   "header": [
     { "id": "1", "logo": "", "content": "فیلیموتور" },
     { "id": "2", "logo": "", "content": "فیلیمو مدرسه" },
@@ -531,10 +527,7 @@
       "cover": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_144353_769.jpg?width=1920&quality=80&secret=XCSb-olSO--GT61sP18F5w"
     }
   ],
-  "Most_popular_mobies_imdb_logo": {
-    "id": "1",
-    "link": "https://www.filimo.com/assets/web/ui/img-cN60l2HV7KQltmZRQCCIA/campaigns/nosub-v_new/icon-imdb.png"
-  },
+
   "How_to_work_section1": {
     "image": [
       {
@@ -602,10 +595,6 @@
         "description": "NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"
       }
     ]
-  },
-  "free_contents_tag": {
-    "id": "1",
-    "link": "https://www.filimo.com/assets/web/ui/img-s353mw9fPKUZk5CZ8mOShw/campaigns/nosub-v_new/icon-play.svg"
   },
 
   "Child_Filimo": {
@@ -735,10 +724,7 @@
       "content": "برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
     }
   ],
-  "advertise_logo": {
-    "id": "1",
-    "link": "https://www.filimo.com/assets/web/ui/img-ugnSfCQdq1MdoMws3NbA/campaigns/nosub-v_new/logo_text.png"
-  },
+
   "advertise": [
     { "id": "1", "content": "هزاران فیلم و سریال خارجی (دوبله و زیرنویس)" },
     { "id": "2", "content": "هزاران انیمیشن و کارتون برای کودکان" },
